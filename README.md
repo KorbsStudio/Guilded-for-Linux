@@ -6,3 +6,6 @@ wget "https://github.com/KorbsStudio/Guilded-for-Linux/releases/download/v0.0.1/
 sh guilded.sh
 ```
 This was tested on Elementary OS
+## Known issues
+ - Missing RTP support
+ - Badges don't show on dock(Plank)
