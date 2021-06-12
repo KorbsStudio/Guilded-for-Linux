@@ -10,3 +10,7 @@ So, if you're using other distros like Arch, Fedora, etc you can run this comman
 ```
 bash <(wget -qO- https://raw.githubusercontent.com/KorbsStudio/Guilded-for-Linux/master/installer.sh)
 ```
+
+
+Wanna modify the client? ReGuilded will work this, since this installer puts Guilded in the proper path.
+https://github.com/ReGuilded/ReGuilded
